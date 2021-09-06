@@ -1,15 +1,15 @@
 ## **Oi eu sou o Bruno Marques.!**
 ##### _Esse é o meu perfil no GitHub._ 
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
- <div style="display: inline_block" align="center"><br>
+ <div style="display: inline" align="center"><br>
  
- <div >
+ <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
   <img height="140px" align="right" width="415px" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
   
- <div >
+ <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
   <img height="140px" width="405px" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
   </a>
