@@ -5,13 +5,13 @@
  
  <div >
   <a href="https://github.com/blmarquess">
-  <img height="140px" align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140px" align="right" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
   
  <div >
   <a href="https://github.com/blmarquess">
-  <img height="140px" width="415px" align="left" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img height="140px" width="405px" align="left" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
   </a>
 </div>  
 
