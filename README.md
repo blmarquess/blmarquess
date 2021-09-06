@@ -5,13 +5,13 @@
  
  <div >
   <a href="https://github.com/blmarquess">
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140px" align="right" width="430px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
   
  <div >
   <a href="https://github.com/blmarquess">
-  <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img height="140px" width="430px" align="left" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
   </a>
 </div>  
 
@@ -19,7 +19,7 @@
 
 <div>
 <a href="https://github.com/blmarquess">
-<img height="200em" aling="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" />
+<img height="200em" width="840px"aling="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" />
 </a>
 </div>
 
