@@ -5,27 +5,29 @@
  
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
-  <img height="140px" align="right" width="415px" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140px" align="right" width="55%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
   
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
-  <img height="140px" width="405px" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img height="140px" width="36%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
   </a>
 </div>  
 
-</div> <br />
+</div> 
+<br />
 
 <div>
 <a href="https://github.com/blmarquess">
-<img height="200em" width="860px"aling="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" />
+<img height="200em" width="100%"aling="center" src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg" />
 </a>
 </div>
 
-<div style="display: inline_block" >
+<div >
+##
 
-<div align="left" width="450px">
+<div align="left" width="40%">
 
 ### **A little about me...**
 - 🛠 I'm currently student BeTrybe!
@@ -51,6 +53,7 @@
 <br>
 </div><br />
 
+##
 
 ### 🛠 Making skills
 <div style="display: inline_block"><br>
