@@ -3,7 +3,7 @@
  <div style="display: inline" align="center"><br>
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
-  <img height="140px" align="right" width="45%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140px" align="right" width="43%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
   </a>
 </div>
   
