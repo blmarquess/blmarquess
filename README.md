@@ -29,7 +29,7 @@
 
 <h3 align="center">A frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **TypeScript,NextJS, SQL**
+- 🌱 I’m currently learning **TypeScript, NextJS, SQL**
 
 - 📫 How to reach me **blmarques.dev@gmail.com**
 
