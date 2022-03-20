@@ -37,7 +37,6 @@
 <p align="left">
 <a href="https://twitter.com/brunomarquesvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunomarquesvk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/00brunomarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="00brunomarques" height="30" width="40" /></a>
-<a href="https://discord.gg/BMarques#8448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BMarques#8448" height="30" width="40" /></a>
 </p>
 <br />
 	
