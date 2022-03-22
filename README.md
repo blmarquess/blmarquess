@@ -34,7 +34,6 @@
 - 📫 How to reach me **blmarques.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-	<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="00brunomarques" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/00brunomarques?trk=profile-badge">Bruno Laerte Marques da Silva</a></div>
 <p align="left">
 <a href="https://twitter.com/brunomarquesvk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunomarquesvk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/00brunomarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="00brunomarques" height="30" width="40" /></a>
