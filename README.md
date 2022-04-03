@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
+<h1 align="center">Oi 👋, eu sou o Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
  <div style="display: inline" align="center"><br>
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
-  <img height="140px" align="right" width="43%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="140px" align="right" width="43%" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blmarquess&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
   </a>
 </div>
   
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
-  <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
+  <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
   </a>
 </div>  
 </div> 
@@ -27,20 +27,19 @@
 
 <div style="display: block" align="left" width="40%">
 
-<h3 align="center">A frontend developer from Brasil</h3>
+### Sou desenvolvedor front-end no Brasil
+	
 
-- 🌱 I’m currently learning **TypeScript, NextJS, SQL**
+- 🌱 Atualmente estou estudando: **TypeScript, NextJS, NodeJS e SQL**
 
-- 📫 How to reach me **blmarques.dev@gmail.com**
+- 📫 Como chegar até mim:
+	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brunomarquesvk" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brunomarquesvk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/00brunomarques" target="_blank" rel="noopener noreferrer"><a href="https://twitter.com/brunomarquesvk" target="_new"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="00brunomarques" height="30" width="40" /></a>
-</p>
-<br />
+##
               
-              
+      
+	
+	
 ### __🖥️ My DevSetup__  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 	
 <div style="display: inline_block"><br>
@@ -58,6 +57,11 @@
 	 <a href="https://github.com/blmarquess">
 		 
 <h3 align="left">🛠Languages and Tools:</h3>
+
+		 
+###
+
+		 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  width="40" height="40" />
