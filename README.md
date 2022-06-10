@@ -117,6 +117,14 @@
       <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       </a>
+	
+##
+
+<div align='center'>
+  <a href="https://github.com/blmarquess">
+	<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blmarquess&theme=dracula&locale=pt-br' />
+  </a>
+</div>
 
 </p>
 </a>
