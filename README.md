@@ -56,7 +56,7 @@
 <div style="display: inline_block"><br>
 	 <a href="https://github.com/blmarquess">
 		 
-<h3 align="left">🛠Languages and Tools:</h3>
+<h3 align="left">🛠Primary stack:</h3>
 
 		 
 ###
