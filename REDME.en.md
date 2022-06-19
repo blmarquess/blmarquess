@@ -1,4 +1,4 @@
-Lang : [PT](https://github.com/blmarquess/blmarquess/blob/master/REDME.md) 
+Lang : [PT](https://github.com/blmarquess/blmarquess/blob/master/README.md) 
   Lang : [EN](https://github.com/blmarquess/blmarquess/blob/master/REDME.en.md)
  
 <h1 align="center">Hey 👋, I am Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
