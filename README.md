@@ -101,14 +101,22 @@
       </a>
 	
 ##
-
+	
+	
 <div align='center'>
   <a href="https://github.com/blmarquess">
 	<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blmarquess&theme=dracula&locale=pt-br' />
   </a>
 </div>
+<br />
+		 <br />
 
 </p>
 </a>
+	<div align='center'>
+		
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2DC6XA)
+		
+</div>
 </div>	
 </div>
