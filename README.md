@@ -1,3 +1,7 @@
+
+ Lang : [EN](https://github.com/blmarquess/blmarquess/blob/master/REDME.en.md)
+ Lang : [PT](https://github.com/blmarquess/blmarquess/blob/master/REDME.md)
+
 <h1 align="center">Oi 👋, eu sou o Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
 ### Sou desenvolvedor front-end no Brasil
