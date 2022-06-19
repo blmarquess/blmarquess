@@ -1,5 +1,16 @@
 <h1 align="center">Oi 👋, eu sou o Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
+### Sou desenvolvedor front-end no Brasil
+	
+
+- 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS e SQL**
+- 🌱 Estou atualmente focado em: **Node, ORMs, Clen Code e TDD**
+
+- 📫 Como chegar até mim:
+	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
+
+##
+
  <div style="display: inline" align="center"><br>
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
@@ -27,15 +38,7 @@
 
 <div style="display: block" align="left" width="40%">
 
-### Sou desenvolvedor front-end no Brasil
-	
 
-- 🌱 Atualmente estou estudando: **TypeScript, NextJS, NodeJS e SQL**
-
-- 📫 Como chegar até mim:
-	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
-
-##
               
       
 	
@@ -52,11 +55,17 @@
   <img align="center" alt="GitHub" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 	</a>
 </div>
- 
+	
+<br />
+<br />
+<br />
+<br />
+<br />
+	
 <div style="display: inline_block"><br>
 	 <a href="https://github.com/blmarquess">
 		 
-<h3 align="left">🛠Primary stack:</h3>
+<h3 align="left">🛠 Stack Favorita:</h3>
 
 		 
 ###
@@ -102,6 +111,11 @@
 	
 ##
 	
+	
+<br />
+<br />
+<br />
+<br />
 	
 <div align='center'>
   <a href="https://github.com/blmarquess">
