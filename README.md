@@ -7,7 +7,7 @@
 	
 
 - 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS e SQL**
-- 🌱 Estou atualmente focado em: **Node, ORMs, Clen Code e TDD**
+- 🌱 Estou atualmente focado em: **Node, ORMs, Clean Code e TDD**
 
 - 📫 Como chegar até mim:
 	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
