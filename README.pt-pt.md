@@ -4,13 +4,12 @@
 <h1 align="center">Oi 👋, eu sou o Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
 ### Sou desenvolvedor front-end no Brasil
-	
-
+ 
 - 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS e SQL**
 - 🌱 Estou atualmente focado em: **Node, ORMs, Clen Code e TDD**
 
 - 📫 Como chegar até mim:
-	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
+ **[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
 
 ##
 
@@ -23,10 +22,10 @@
   
  <div style="display: inline_block" >
   <a href="https://github.com/blmarquess">
-  <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/> 
+  <img height="140px" width="50%" align="left" margin="0" padding="5px" src="https://github-readme-stats.vercel.app/api?username=blmarquess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide=issues&locale=pt-br"/>
   </a>
 </div>  
-</div> 
+</div>
 <br />
 
 <div>
@@ -34,46 +33,38 @@
 <img height="200em" width="100%" aling="center" src="https://raw.githubusercontent.com/blmarquess/blmarquess/master/github-contribution-grid-snake.svg" />
 </a>
 </div>
-	
+ 
 ##
 
-<img width="40%" align="right" alt="cat_programing" src="https://i.giphy.com/media/heIX5HfWgEYlW/giphy.webp" /> 
+<img width="40%" align="right" alt="cat_programing" src="https://i.giphy.com/media/heIX5HfWgEYlW/giphy.webp" />
 
 <div style="display: block" align="left" width="40%">
 
-
-              
-      
-	
-	
-### __🖥️ My DevSetup__  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-	
+### **🖥️ My DevSetup**  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+ 
 <div style="display: inline_block"><br>
-	 <a href="https://github.com/blmarquess">
+  <a href="https://github.com/blmarquess">
   <img align="center" alt="Bash" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   <img align="center" alt="Debian" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg">
   <img align="center" alt="MacOS" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Firefox" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg">
   <img align="center" alt="VS code" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg">
   <img align="center" alt="GitHub" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-	</a>
+ </a>
 </div>
-	
+ 
 <br />
 <br />
 <br />
 <br />
-<br />
-	
+
 <div style="display: inline_block"><br>
-	 <a href="https://github.com/blmarquess">
-		 
+  <a href="https://github.com/blmarquess">
+   
 <h3 align="left">🛠 Stack Favorita:</h3>
 
-		 
 ###
 
-		 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  width="40" height="40" />
@@ -111,29 +102,28 @@
       <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
       </a>
-	
+ 
 ##
-	
-	
+ 
 <br />
 <br />
 <br />
 <br />
-	
+ 
 <div align='center'>
   <a href="https://github.com/blmarquess">
-	<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blmarquess&theme=dracula&locale=pt-br' />
+ <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blmarquess&theme=dracula&locale=pt-br' />
   </a>
 </div>
 <br />
-		 <br />
+   <br />
 
 </p>
 </a>
-	<div align='center'>
-		
+ <div align='center'>
+  
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N2DC6XA)
-		
+  
 </div>
-</div>	
+</div> 
 </div>
