@@ -3,11 +3,11 @@
 
 <h1 align="center">Oi 👋, eu sou o Bruno Marques <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
-### Sou desenvolvedor front-end no Brasil
+### Sou desenvolvedor web no Brasil
 	
 
-- 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS e SQL**
-- 🌱 Estou atualmente focado em: **Node, ORMs, Clean Code e TDD**
+- 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS, Node e SQL**
+- 🌱 Estou atualmente focado em: **ORMs, Clean Code e TDD**
 
 - 📫 Como chegar até mim:
 	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
