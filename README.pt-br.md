@@ -31,7 +31,14 @@ a[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/blmarq
 
 <div>
 <a href="https://github.com/blmarquess">
-<img height="200em" width="100%" aling="center" src="https://raw.githubusercontent.com/blmarquess/blmarquess/master/github-contribution-grid-snake.svg" />
+
+<div>
+
+ ![Snake animation](https://github.com/blmarquess/blmarquess/blob/output/github-contribution-grid-snake.svg)
+ 
+
+</div>
+
 </a>
 </div>
 	
