@@ -3,7 +3,7 @@
 
 <h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Oi+%F0%9F%91%8B%2C+eu+sou+o+Bruno+Marques++++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Oi+%F0%9F%91%8B%2C+eu+sou+o+Bruno+Marques++++++++++++)](https://github.com/blmarquess)
 
 <a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 
