@@ -1,5 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/blmarquess/blmarquess/blob/master/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/blmarquess/blmarquess/blob/master/README.md)
+[![Profile](https://komarev.com/ghpvc/?username=blmarquess&message=Visits&color=33B98A)](https://github.com/blmarquess)
 
 <h1 align="center">
 
