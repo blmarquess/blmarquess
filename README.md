@@ -1,29 +1,25 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/blmarquess/blmarquess/blob/master/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/blmarquess/blmarquess/blob/master/README.md)
 [![Profile](https://komarev.com/ghpvc/?username=blmarquess&message=Visits&color=33B98A)](https://github.com/blmarquess)
-
+<a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
 <h1 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Oi+%F0%9F%91%8B%2C+eu+sou+o+Bruno+Marques++++++++++++)](https://github.com/blmarquess)
-
-<a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
+![my-work](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
 
 ### Sou desenvolvedor web no Brasil
 	
 
-- 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS, Node e SQL**
-- 🌱 Estou atualmente focado em: **ORMs, Clean Code e TDD**
+- 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS, Node, Java e SQL**
+- 🌱 Estou atualmente focado em: **Clean Code e TDD**
 
 - 📫 Como chegar até mim:
 	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
 
 ##
 
- <div style="display: inline" align="center"><br>
-	
-![my-work](./profile-3d-contrib/profile-night-rainbow.svg)
 
-</div> 
 <br />
 
 <div>
