@@ -1,12 +1,16 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/blmarquess/blmarquess/blob/master/README.en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/blmarquess/blmarquess/blob/master/README.md)
 [![Profile](https://komarev.com/ghpvc/?username=blmarquess&message=Visits&color=33B98A)](https://github.com/blmarquess)
-<a href="https://github.com/blmarquess"><img align="center" alt="Me Coding" height="30" width="40" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"></a></h1>
-<h1 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Oi+%F0%9F%91%8B%2C+eu+sou+o+Bruno+Marques++++++++++++)](https://github.com/blmarquess)
+
 ![my-work](./profile-3d-contrib/profile-night-rainbow.svg)
  
+ ##
+<div width="40%" align="center">
+	
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Oi+%F0%9F%91%8B%2C+eu+sou+o+Bruno+Marques++++++++++++)](https://github.com/blmarquess)
+
+</div>
 
 ### Sou desenvolvedor web no Brasil
 	
@@ -25,25 +29,16 @@
 <div>
 <a href="https://github.com/blmarquess">
 
-<div>
-
  ![Snake animation](https://github.com/blmarquess/blmarquess/blob/output/github-contribution-grid-snake.svg)
  
-</div>
 	
 </a>
 </div>
 	
 ##
 
-<img width="40%" align="right" alt="cat_programing" src="https://i.giphy.com/media/heIX5HfWgEYlW/giphy.webp" /> 
-
 <div style="display: block" align="left" width="40%">
 
-
-              
-      
-	
 	
 ### __🖥️ My DevSetup__  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 	
@@ -57,11 +52,7 @@
   <img align="center" alt="GitHub" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 	</a>
 </div>
-	
-<br />
-<br />
-<br />
-<br />
+
 <br />
 	
 <div style="display: inline_block"><br>
