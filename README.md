@@ -42,6 +42,7 @@
 	
 ### __🖥️ My DevSetup__  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 	
+	
 <div style="display: inline_block"><br>
 	 <a href="https://github.com/blmarquess">
   <img align="center" alt="Bash" height="30" width="40" target="_blank" rel="noopener noreferrer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
