@@ -7,9 +7,6 @@
 ### I'm a web engineer in Brazil
 	
 
-- 🍁 I am currently armed with: **TypeScript, React, NextJS, NodeJS e SQL**
-- 🌱 I'm currently focused on: **Node, ORMs, Clean Code e TDD**
-
 - 📫 How to reach me:
 	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
 
