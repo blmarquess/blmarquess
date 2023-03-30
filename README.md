@@ -15,9 +15,6 @@
 ### Sou desenvolvedor web no Brasil
 	
 
-- 🍁 Atualmente estou armado com: **TypeScript, React, NextJS, NodeJS, Node, Java e SQL**
-- 🌱 Estou atualmente focado em: **Clean Code e TDD**
-
 - 📫 Como chegar até mim:
 	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
 
