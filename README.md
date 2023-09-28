@@ -22,15 +22,6 @@
 
 
 <br />
-
-<div>
-<a href="https://github.com/blmarquess">
-
- ![Snake animation](https://github.com/blmarquess/blmarquess/blob/output/github-contribution-grid-snake.svg)
- 
-	
-</a>
-</div>
 	
 ##
 
@@ -106,16 +97,7 @@
 <br />
 	
 <br />
-	
-<br />
-	
-<br />
-	
-<div align='center'>
-  <a href="https://github.com/blmarquess">
-	<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blmarquess&theme=dracula&locale=pt-br' />
-  </a>
-</div>
+
 <br />
 		 <br />
 
