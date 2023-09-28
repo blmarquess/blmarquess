@@ -18,12 +18,8 @@
 - 📫 Como chegar até mim:
 	**[e-Mail](blmarques.dev@gmail.com)**  **[Linkedin](https://linkedin.com/in/00brunomarques)**
 
-##
-
-
 <br />
-	
-##
+
 
 <div style="display: block" align="left" width="40%">
 
